@@ -1,0 +1,14 @@
+layout_spectrum: 0.2613828
+color:
+  saturation: 0.455312
+  lightness: 0.5236087
+  brandStrength: 0.8389544
+  brandColors:
+    - '#000000'
+    - '#1F1F21'
+    - '#34ABDD'
+    - '#1C5C77'
+    - '#277FA4'
+  rhythmicContrast: 0.3726813
+typography_spectrum: 0.3659359
+name: TruApps
