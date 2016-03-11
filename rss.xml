@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TruApps]]></title>
+        <description><![CDATA[TruApps]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 21:09:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let Us Design You A Mobile App!]]></title>
+            <description><![CDATA[<article><h1>Let Us Design You A Mobile App!</h1><p>These days, more and more people are using their mobile devices for just about all of their information needs.  People are spending more time in mobile apps than ever before, and this trend is only increasing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c92ba26ad9392154213c641364c2b9b94a9825a0.jpg"></article>]]></description>
+            <link>undefinedlet-us-design-you-a-mobile-app/index.html</link>
+            <guid isPermaLink="false">f2f812ac-f652-40ef-9ceb-d1168c8c21e3</guid>
+            <pubDate>Fri, 11 Mar 2016 21:08:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
